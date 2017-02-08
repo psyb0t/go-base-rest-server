@@ -4,8 +4,10 @@ For reusable REST API server initial code.
 
 ## Uses
 
-github.com/buaazp/fasthttprouter
-github.com/valyala/fasthttp
+
+[github.com/buaazp/fasthttprouter](https://github.com/buaazp/fasthttprouter)
+
+[github.com/valyala/fasthttp](https://github.com/valyala/fasthttp)
 
 ## Where do I put my code?
 
